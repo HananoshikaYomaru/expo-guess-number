@@ -10,3 +10,5 @@
 1. run `expo start` to start the server 
 2. run on a simulator 
 
+You should see something like this 
+![home page](2020-10-14_12-11.png)
